@@ -1,5 +1,4 @@
-# manual-qa-portfolio
-Manual QA portfolio: checklists, test cases, bug reports, API, SQL
+### manual-qa-portfolio
 # Вера Артамонова — Junior Manual QA
 
 Новосибирск (удалённо/гибрид/офис в Новосибирске)  
