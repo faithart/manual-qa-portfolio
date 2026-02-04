@@ -1,5 +1,6 @@
 # Тест-кейсы
 
-- [Web — базовые сценарии](./web_core_testcases.md)
+- [Web — Тестирование формы (./web_testcases.md)
+- [Mobile — Тестирование нотификации (./mobile_testcases.md) 
 
 
