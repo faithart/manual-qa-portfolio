@@ -1,6 +1,6 @@
 # Тест-кейсы
 
-- [Web — Тестирование формы (./web_testcases.md)]
-- [Mobile — Тестирование нотификации (./mobile_testcases.md)]
+- [Web — формы](./web_testcases.md)
+- [Mobile — уведомления](./mobile_testcases.md)
 
 
