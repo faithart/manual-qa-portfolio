@@ -13,8 +13,8 @@
 
 ## Кейсы
 ### 1) Web: формы, сценарии, адаптив
-- Чек-лист: (./checklists/web_ui_forms_layout_checklist.md)
-- Тест-кейсы: (./test-cases/web_testcases.md)
+- Чек-лист: [checklists/web_ui_forms_layout_checklist.md](./checklists/web_ui_forms_layout_checklist.md)
+- Тест-кейсы: [web_testcases.md](./test-cases/web_testcases.md)
 - Баг-репорты: [пример 1](./bug-reports/...), [пример 2](./bug-reports/...)
 
 ### 2) API + проверка результата в БД
